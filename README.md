@@ -5,14 +5,15 @@ Download the code in this repository by clicking on the link below.
 
 ---
 After you have downloaded the files you will need to extract the zip file.
-- Right click on the zip file and click extract here or you could run the command below to extract it
+- Right click on the zip file and click extract here or you could run the command below to extract it. Replace your_user_name with your ubuntu username.
+- If you are unsure about what your username is just run whoami in your terminal. This command will return your username
 - ```
-  cd /home/Downloads/
+  cd /home/your_user_name/Downloads/
   unzip demo-flask-main.zip
   ```
 - Navigate within the folder by launching a terminal window and running
 - ```
-  cd /home/Downloads/demo-flask-main/
+  cd /home/demo-flask-main/Downloads/demo-flask-main/
   ```
 - now that you are in the directory of the code, you can run the command below.
 ---
