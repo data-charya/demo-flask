@@ -1,6 +1,8 @@
 # How to run the server ?
 
-Download the code in this repository by either cloning or downloading the zip. Click on the big green button that says <> Code above.
+Download the code in this repository by clicking on the link below.
+[Download Code](https://github.com/data-charya/demo-flask/archive/refs/heads/main.zip)
+
 ---
 Just run the command below in your terminal and you should have your application up and running
 ```sh
